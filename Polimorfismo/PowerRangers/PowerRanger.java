@@ -30,7 +30,7 @@ class PowerRangerPreto extends PowerRanger {
     public void morfar() {
         System.out.println(nome + " says: Mastodon!"+"\n");
     }
-}       ''
+}       
 
 class PowerRangerRosa extends PowerRanger {
     public PowerRangerRosa(String nome) {
